@@ -12,3 +12,9 @@ promote :: Employee -> Employee
 promote (Engineer) = Manager
 promote (Manager) = Executive
 promote (Executive) = Executive 
+
+main:: IO () 
+main = do 
+       print (False == isManager Engineer)
+       print (False == isManager Executive)
+       print (True == isManager Manager)
