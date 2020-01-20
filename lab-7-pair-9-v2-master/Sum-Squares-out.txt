@@ -1,0 +1,14 @@
+"Lab 7 - Part 2"
+"Enter a list of integers"
+1 2 3
+The sum of squares is: 14
+
+"Lab 7 - Part 2"
+"Enter a list of integers"
+
+The sum of squares is: 0
+
+"Lab 7 - Part 2"
+"Enter a list of integers"
+5
+The sum of squares is: 25
