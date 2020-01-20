@@ -1,0 +1,5 @@
+Lab 6 - Part 2
+What is your age?
+none of your business
+You did not enter a valid age
+You are none of your business

@@ -1,0 +1,5 @@
+"Lab 6 - Part 2"
+"What is your age?"
+40
+you are wise
+you are 40
