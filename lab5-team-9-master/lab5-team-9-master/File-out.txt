@@ -1,0 +1,6 @@
+"Lab 5 - Part 4"
+"name of the file?"
+TestFile.txt
+"enter string to search for"
+can  
+Files.hs: TestFile.txt: openFile: does not exist (No such file or directory)

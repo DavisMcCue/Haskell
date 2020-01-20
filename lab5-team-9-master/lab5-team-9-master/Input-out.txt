@@ -1,0 +1,10 @@
+Lab 5 - Part 3
+Please enter your First Name:
+Davis
+Please enter your Last Name:
+McCue
+Please enter your Age:
+2
+Favorite Color?
+Blue
+"Your name is Davis McCue.You are 2 years old. You Like Blue."

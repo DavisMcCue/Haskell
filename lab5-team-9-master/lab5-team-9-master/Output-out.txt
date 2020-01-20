@@ -1,0 +1,24 @@
+[Running] runhaskell "c:\Users\nbowe\OneDrive\Documents\lab5-team-9\Output.hs"
+"Lab 5 - Part 2"
+5
+True
+'f'
+5.5
+5True'f'5.55
+True
+'f'
+5.5
+Sandwich
+Soup
+Bread
+Salad
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
